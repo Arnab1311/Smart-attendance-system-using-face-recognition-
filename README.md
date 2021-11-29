@@ -12,7 +12,7 @@ A simple yet smart attendance system using KNN classifier to recognize faces in 
 
 B. Run requirements.txt
 
-## face_recognition
+## Face recognition and Attendance
 1. Go to images/train
 2. Add a folder of images. Rename and save
 3. Run Train.py 
