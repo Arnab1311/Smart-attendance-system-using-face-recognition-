@@ -1,4 +1,4 @@
-# Smart-attendance-system-using-face-recognition-
+# Smart-attendance-system-using-face-recognition
 A smart attendance system using KNN classifier to recognize faces in real-time and mark attendance.
 ![This is an image](/images/fr.jpg)
 
