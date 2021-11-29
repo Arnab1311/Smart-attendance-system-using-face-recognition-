@@ -3,14 +3,14 @@ A smart attendance system using KNN classifier to recognize faces in real-time a
 ![This is an image](/images/fr.jpg)
 
 ## Installation
-Run requirements.txt
-
-### To Install dlib in windows
+#### A. To Install dlib in windows
 1. pip install CMake
 2. Go to Visual Studio installer.
 3. Go to modify installation.
 4. Go to the Individual Components tab select and install Visual C++ Tools for Cmake. 
-5. pip install Dlib 
+5. pip install Dlib
+
+B. Run requirements.txt
 
 ## face_recognition
 1. Go to images/train
