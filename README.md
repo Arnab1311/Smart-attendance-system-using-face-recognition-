@@ -1,5 +1,5 @@
 # Smart-attendance-system-using-face-recognition
-A smart attendance system using KNN classifier to recognize faces in real-time and mark attendance.
+A simple yet smart attendance system using KNN classifier to recognize faces in real-time and mark attendance for recognized faces.
 ![This is an image](/images/fr.jpg)
 
 ## Installation
@@ -17,3 +17,7 @@ B. Run requirements.txt
 2. Add a folder of images. Rename and save
 3. Run Train.py 
 4. Run Attendance.py to mark the attendance and store it in a sqlite3 db. 
+
+## Acknowldegments 
+1. Thanks to [Adam Geitgey](https://github.com/ageitgey/face_recognition) for face_recognition.  
+
