@@ -1,5 +1,4 @@
 face_recognition
 sklearn
 sqlite3
-cmake
-dlib
+
